@@ -1,0 +1,53 @@
+{
+  "user": {
+    "id": 10,
+    "name": "Wasif",
+    "company_id": 3,
+    "company_name": "QuickWheels",
+    "role": "user"
+  },
+  "companies": {
+    "3": {
+      "id": 3,
+      "name": "QuickWheels",
+      "cars": [
+        {
+          "id": 1,
+          "make": "Toyota",
+          "model": "Corolla",
+          "year": 2021,
+          "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=400&h=300&fit=crop",
+          "rent_per_day": 60,
+          "is_available": true
+        },
+        {
+          "id": 2,
+          "make": "Honda",
+          "model": "Civic",
+          "year": 2022,
+          "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400&h=300&fit=crop",
+          "rent_per_day": 70,
+          "is_available": false
+        },
+        {
+          "id": 3,
+          "make": "BMW",
+          "model": "X3",
+          "year": 2023,
+          "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&h=300&fit=crop",
+          "rent_per_day": 120,
+          "is_available": true
+        },
+        {
+          "id": 4,
+          "make": "Audi",
+          "model": "A4",
+          "year": 2022,
+          "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400&h=300&fit=crop",
+          "rent_per_day": 95,
+          "is_available": true
+        }
+      ]
+    }
+  }
+}
