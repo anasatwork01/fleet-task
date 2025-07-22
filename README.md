@@ -2,8 +2,6 @@
 
 A modern, responsive Next.js application for car rental management with scoped company authentication and clean UI design.
 
-![Car Rental System](https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&h=400&fit=crop)
-
 ## 🚀 Quick Start
 
 ### Prerequisites
