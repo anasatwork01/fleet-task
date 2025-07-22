@@ -1,5 +1,5 @@
 import { useAuth } from "../hooks/useAuth";
-import { BarChart3, Car, Calendar, DollarSign } from "lucide-react";
+import { BarChart3, Car, Calendar } from "lucide-react";
 
 export default function Dashboard() {
   const { user } = useAuth();

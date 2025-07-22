@@ -34,7 +34,7 @@ export default function SettingsPage() {
         </h2>
 
         <p className="text-gray-600 mb-8 max-w-md mx-auto">
-          We're building a comprehensive settings panel to give you full control
+          We&#39;re building a comprehensive settings panel to give you full control
           over your account and preferences.
         </p>
 
